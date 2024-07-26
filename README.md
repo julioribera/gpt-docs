@@ -25,5 +25,5 @@ Run the script using the following command format:
 Example:
 
 ```bash
-./script_name.sh /path/to/github/repo/docs combined_documentation.txt md
+./script_name.sh ./path/to/github/repo/docs combined_documentation.txt md
 ```
